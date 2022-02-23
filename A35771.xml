@@ -1,0 +1,607 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Description of the Office of Credit by the use of which none can possibbly sustain loss, but every man may certainly receive great gain and wealth : with a plain demon[s]tration how a man may trade for six times his stock and never be trusted : and that ... there can afterwards no accident happen to cause a deadness or slowness of trade, except warrs, nor need men make any more bad debts : with divers other publick and paivate [sic] conveniences and profits, as also objections hitherto made against it, largely and fully answered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 73 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35771</idno>
+            <idno type="STC">Wing D1164</idno>
+            <idno type="STC">ESTC R20510</idno>
+            <idno type="EEBO-CITATION">11773725</idno>
+            <idno type="OCLC">ocm 11773725</idno>
+            <idno type="VID">48908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35771)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48908)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 25:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Description of the Office of Credit by the use of which none can possibbly sustain loss, but every man may certainly receive great gain and wealth : with a plain demon[s]tration how a man may trade for six times his stock and never be trusted : and that ... there can afterwards no accident happen to cause a deadness or slowness of trade, except warrs, nor need men make any more bad debts : with divers other publick and paivate [sic] conveniences and profits, as also objections hitherto made against it, largely and fully answered.</title>
+               </titleStmt>
+               <extent>[4], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the order of the Society, for Thomas Rooks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The Society" by whose order this tract was printed was apparently the "Society governing the Office of Credit," mentioned on p. 3.</note>
+                  <note>Reproduction of original in Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Credit --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48908:1" rendition="simple:additions"/>
+            <pb facs="tcp:48908:1" rendition="simple:additions"/>
+            <pb facs="tcp:48908:2"/>
+            <pb facs="tcp:48908:2" rendition="simple:additions"/>
+            <p>A DESCRIPTION OF THE OFFICE of CREDIT; By the uſe of which, none can poſſibbly ſuſtain Loſs, but every man may certainly receive great GAIN and WEALTH. With a Plain DEMONTRATION, How a man may Trade for Six times his Stock, and never be Truſted; and that (if generally received) there can af<g ref="char:EOLhyphen"/>terwards no Accident happen to cauſe a Deadneſs or Slowneſs of <hi>Trade,</hi> except Warrs, nor need men make any more bad Debts. WITH Divers other publick and paivate convenien<g ref="char:EOLhyphen"/>ces and profits: As alſo <hi>Objections</hi> hitherto made againſt it, largely and fully Anſwered.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by the order of the Society, for <hi>Thomas Rooks,</hi> 1665.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:48908:3"/>
+            <pb facs="tcp:48908:3"/>
+            <head>To the Reader.</head>
+            <opener>
+               <salute>Curteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving a purpoſe to treat of the <hi>Office of Credit,</hi> which hath no where (as we are informed) an exact paralel, except <hi>Naples</hi> and <hi>Venice,</hi> though in ſeveral other pla<g ref="char:EOLhyphen"/>ces, as <hi>Florence, Genoa, Amſterdam, Hamburgh, &amp;c.</hi> Something is very like it, and enough to convince any of the poſſibity of it's being practicable; we have been a little larger in the Deſcription then were neceſſary, if it were not new; and that this Treatiſe were directed to a few judicious peſons; but (it being of general Concernment, and conſequently intended to all) we judged it convonient to collect all that could be thought of in it's behalf. And though we cannot expect the whole ſhould ſatisfie all, ſince mens fancies are as different as their faces, and one mans me at is another mans poiſon; yet we deſire to have ſuch plenty and variety, as there may be ſomething to pleaſe every pallate. And to inſinuate this Deſign with greater facility into mens affections, whereby the uſe may be univerſal<g ref="char:EOLhyphen"/>ly propagated; we have endeavoured in Chap. <hi>8.</hi> to remove two vulgar errours. <hi>1.</hi> That Credit in Bank, is only Current, becauſe men can have Money when they will. <hi>2.</hi> That without Money no Trade can be managed. In the handling of which, (if our arguments are convincing and prevalent) we have obtained our arme, for then, this Enterpriſe which is attended with ſo many publick and private benefits as will ſuf<g ref="char:EOLhyphen"/>ficiently reward thoſe that ſhall candidly receive and uſe it, muſt ſucceed. And though we will not deny, that we have had ſelf-end in this Deſign, and it's publication, yet we dare affirm, that it may evidently redound to his Majeſties profit, and the mighty improvement of the Trade of his three Kingdomes, without the Interfering of their reſpective Interests. <hi>Now,</hi> being ſenſible of the Conſequences of being in Print, we have ac<g ref="char:EOLhyphen"/>cordingly armed our ſelves either for faire or foul oppoſition, hoping that the most generous, will fairly acquaint us with their Objections, and patiently hear our Anſwers; and for ſuch who are contrarily minded, we ſhall neither value their Friendſhip, nor fear their clandeſtine Machi<g ref="char:EOLhyphen"/>tions:
+<pb facs="tcp:48908:4"/>We will only add thus much, to prevent them, if poſſible, that they who will endeavour it's ſubverſion may be of two ſorts; ſuch who becauſe they have no Concern in the management of it, are ignorant that they reap advantage by it; others that fear a prejudice from it. For the first, we dare preſume there will be no perſon in England, but me<g ref="char:EOLhyphen"/>diately or immediately, will taſte the good of it. And for the laſt, We can aſsure them, this Office deſigns cheifly, to fill a vacancy, that is, to en<g ref="char:EOLhyphen"/>courage ſuch perſons to frequent it, who in the like caſes, at preſent, are no Bodies Cuſtomers. But admit it ſhould more or leſs, intrench, upon ſome mens practices (We are ſure it cannot upon any mans priviledged calling,) we may be as confident, that what they loſe in the length, they will gain in the breadth, which we ſhall make no difficulty to prove to a<g ref="char:EOLhyphen"/>ny that will deſire it. We ſhall further make this requeſt to thee, that becauſe the Title promiſeth ſo much beyond thy preſent proſpect, thou wilt not therefore reject it, as a project or Chymera, but either ſuſpend thy judgement, till thou haſt read and examined it, or (if thy want of faith hath begotten ſuch a prejudice, as not to ſuffer thee to read it) be ſilent rather then by thy unjuſt Cenſure, to preoccupie the judgements of others. Be not as the Dog in the Manger; who will neither eat nor let the Horſe eate,</p>
+            <closer>
+               <salute>Farewel</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:48908:4"/>
+            <div n="1" type="chapter">
+               <head>
+                  <hi>CHAP. I.</hi> The Definition of the <hi>Office,</hi> illuſtrated with divers Similitudes</head>
+               <p>
+                  <seg rend="decorInit">T</seg>O avoid a tedious Introduction, intending brevity, we immediately come to the definition of the <hi>Office;</hi> which is, neither Bank nor Lumbard, and yet, in ef<g ref="char:EOLhyphen"/>fect, is both united.</p>
+               <p>It is neither Bank nor Lumbard, becauſe the foun<g ref="char:EOLhyphen"/>dation of Credit in Bank, is Money, and here 'tis Goods and Merchandize. And for goods received in a Lumbard they deliver out Money, and here Credit, and yet it is like both: For after the ſame manner and limitations, in every reſpect, as goods are recei<g ref="char:EOLhyphen"/>ved, ſtored and preſerved in a Lumbard, ſhall they be in this <hi>Office,</hi> and Credit ſhall be delivered out and transferred exactly, after the manner as it is in forraign Banks. Each party that either raiſeth or receiveth Credit, having his Folio in the Bank-Book, and is Regiſtred Debitor and Creditor, according to what he receiveth and payeth.</p>
+               <p>It is a generall <hi>Store-houſe,</hi> receiving all parties Goods, and deliver<g ref="char:EOLhyphen"/>ing out their Tickets, if deſired, as it is at this day, practiſed in <hi>Virgi<g ref="char:EOLhyphen"/>nia, Barbadoes</hi> and other Plantations, where the Planters bring in their <hi>Tobacco</hi> and <hi>Sugars</hi> to the <hi>Store-houſes</hi> (in the abſence of Ships) and re<g ref="char:EOLhyphen"/>ceive a Note; (there being no Money) from the <hi>Storekeeper,</hi> who is but a private perſon, and with that Note, as far as the <hi>Storekeeper</hi> is known, can they purchaſe any other Commodity.</p>
+               <p>It is a generall Accomptant, Book-keeper, or Caſh-keeper, becauſe, in one Book, it Regiſters many mens Receipts and Payments; and at that day twelve Month a perſon is entered Creditor, they even his Accompts, and return the Overplus in Money in ſpecie to the Creditor, or (if he deſire it) keep it, and enter him Creditor for ſo much, for the next year.</p>
+               <pb n="2" facs="tcp:48908:5"/>
+               <p>It is likewiſe a third hand, or place to keep Stakes: For the Goods lodged in the <hi>Office,</hi> are the reall Debitor, and the perſon poſſeſſing the Credit of them (although a hundred times, by Aſſignment, transferred) is the Creditor. This <hi>Office</hi> only ſecures the Goods as a Pledge, till the Creditor is either ſatisfied with Money, or ſuch Commodities as pleaſe him, which he purchaſeth with the Credit of the <hi>Office,</hi> and peradven<g ref="char:EOLhyphen"/>ture of ſome one perſon, whoſe Goods may be engaged, with which Cre<g ref="char:EOLhyphen"/>dit he redeems them, as well as with Money.</p>
+               <p>It is likewiſe a common Security: For the party raiſing Credit, doth, as it were, by the Depoſiting of his Goods, engage this <hi>Office</hi> to become bound for ſo much to his Creditor or Chapman, and ſucceſſively to as many as it may be Aſſigned over or tranſmitted, till the Credit be diſ<g ref="char:EOLhyphen"/>charged, which cannot well be deferred longer than one year.</p>
+               <p>It is alſo a <hi>Witneſs</hi> to all Payments made in the <hi>Office,</hi> witneſſing that ſuch and ſuch Goods muſt not be diſcharged, without Money, Goods, or the Credit of ſome perſons Goods, brought in, of the ſame value. And likewiſe, that one perſon, this day, and to morrow, another, and next day a third, is Creditor of the Goods; the Pledge ſtill following the Credit.</p>
+               <p>It is a <hi>Pound Ouvert,</hi> wherein the Goods are pounded, till the Tre<g ref="char:EOLhyphen"/>ſpaſſed Creditor is ſatisfied, and though there ſecured, yet ſtill under the care of their Deliverer.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> The manner of Uſing this <hi>Office.</hi>
+               </head>
+               <p>IF any perſon, for neceſſity or conveniency, hath occaſion for Credit, he may bring his Goods to the <hi>Office.</hi> If fine, in Truncks, Cheſts, or Boxes; if groſs in Packs, Hogs-heads or Veſſels, where they are viewed and appraiſed by Officers, who conſider what value of Credit they will bear, without prejudice to the <hi>Office,</hi> being alſo the Underta<g ref="char:EOLhyphen"/>kers advantage to lend as much as they can with ſafety; and of what du<g ref="char:EOLhyphen"/>rance they may be. As to the value, if it be overprized, it may injure the <hi>Office:</hi> but if undervalued, it cannot much prejudice the Owner, becauſe for redemption of them, he brings no more Money or Credit back to the <hi>Office,</hi> than he received, and it's charges according to the Rules hereafter preſcribed for the benefit of what the <hi>Office</hi> yielded him in Credit. As to the Durance, it muſt be limited according to the na<g ref="char:EOLhyphen"/>ture
+<pb n="3" facs="tcp:48908:5"/>of the Commodity: For ſome, if not redeemed in a Month, muſt be fold with the knowledge of the owner; Others will laſt three moneths, and ſome a year, but none may continue longer, without a new praiſe<g ref="char:EOLhyphen"/>ment, and all charges cleared: becauſe goods may fall in Market price, and decay of their intrinſick value, and in that manner they may conti<g ref="char:EOLhyphen"/>nue as many years as the deliverer pleaſeth.</p>
+               <p>After the Appraiſement, they are marked and lodged, and <hi>a Bill of ſale</hi> regiſtred <hi>of them</hi> in the book: ſigned and ſealed by the Deliverer, for the Offices ſecurity, where note, that the office gives credit, and re<g ref="char:EOLhyphen"/>giſters all by five pounds: ſo that if any perſon hath odd money to pay, as twenty ſeven pounds, he muſt pay twenty five pounds in the office, and the odd forty ſhillings in Money: then is the Deliverer entred cre<g ref="char:EOLhyphen"/>ditor, in an other common book of accompts, and if he be deſirous to ſa<g ref="char:EOLhyphen"/>tisfie a debt, or buy commodities, he writes a note after this form, which is filed up in the office for their Warrant.</p>
+               <floatingText xml:lang="eng" type="warrant">
+                  <body>
+                     <opener>
+                        <salute>GENTLEMEN,</salute>
+                     </opener>
+                     <p>Pray make <hi>A. B.</hi> creditor for ſo much, and me debitor for the like ſumme, for which this ſhall be your Warrant Dated</p>
+                     <trailer>To the Society governing the Office of credit. </trailer>
+                     <closer>
+                        <signed>Signed <hi>C.D.</hi>
+                        </signed>
+                     </closer>
+                  </body>
+               </floatingText>
+               <p>Which he doth for every payment he makes out of the whole ſumme, or he may include ſeveral ſummes to divers perſons in one note, and the like doth every creditor, that hath any credit in the office: whether he raiſed or received it, from thoſe that did: and when a Creditor payes twelve Perſons, he needs make but one journey for them all, in an afternoon, and he may likwiſe receive from as many: and make no more in the morning to note in his Table book, who hath made him creditor; which he enters at home in his bank book, and if any that promiſed it have neglected it, they may be reminded.</p>
+               <p>The Deliverer likewiſe when the bill of ſale is regiſtred, may note down the loweſt Rate that he is willing to ſell his goods for, and (if in the mean time the office can procure a chapman, at that rate or a better) he ſhall have notice of it,</p>
+               <p>The Deliverer hath alſo free acceſs to his goods, at the appointed hours of the office being open, to take care of them, and prevent any damage that may happen to them; or to bring a Chapman for them, if he can
+<pb n="4" facs="tcp:48908:6"/>get any, who upon diſcharging the office, may immediately take away the goods: or raiſe credit upon them again if he pleaſeth.</p>
+               <p>When the Deliverer hath a purpoſe to redeem his goods, he may bring either Moneys, credit or the like value of goods, and he may have the firſt returned.</p>
+               <p>If the goods be not redeemed, according to the time agreed on, they are to be ſold at a publick Outcry, where the Deliverer may be preſent, and ſee the commodities ſold, and Hoiſe up the price of them, and what they are ſold for, over and above the credit and charges of them, the Deliverer receiveth, allowing ſome ſmall thing by the pound, for the ſale of them.</p>
+               <p>Although moſt Merchants of Experience or Dealing in the world, and other Trades-men that have travelled beyond Sea, and have ſeen the Cuſtomes and manner uſed in the Bank or Lumbard, and this very thing practiſed as we are informed under a Monarchy, as <hi>Naples</hi> and a free ſtate, as <hi>Venice,</hi> might receive ſatisfaction from what is already ſaid: and fully apprehend the Benefit and Advantages which may ſucceed; yet (becauſe we cannot hope, that all who ſhall have occaſion to taſte the ſweet of this office, are ſo judicious and underſtanding) wee ſhall illuſtrate it with examples real, and imaginary, and preſcribe alſo an other manner of proceeding in this office: which may be choſen by any that approve not of the firſt, though it will be with greater Charges and Trouble, as for real Examples.</p>
+               <p>What is more frequent then pawning and Mortgaging of goods of all ſorts, Lands and Friends: and the receiving credit for goods, as thoſe that ſell at time: and credit for money, as Bonds, Bills of exchange, and Bills under hand: onely the difference is, the credit of the Office is currant, and theſe other dorment. Beſides the Store-keepers of the <hi>Leeward Iſlands</hi> before mentioned, is the exact Model of it. <hi>Chap.</hi> 1.</p>
+               <p>For <hi>Imaginary Examples,</hi> Suppoſe a Merchant raiſeth 100 l. credit in the Office, and buyes of the Clothier cloath for a 100 l. he goes with the Clothier to the Office, and is made debtor for ſo much, and the Clothier Creditor, the Clothier having bought wool, is made debtor, and the Wool<g ref="char:EOLhyphen"/>monger creditor upon account: the ſaid Woolmonger buyes wool of a Farmer, for ſo much more or leſs, ſo the Woolmonger is made debtor, and the Farmer creditor: The Farmer muſt pay his Rent, he is made debtor, and the Landlord creditor, the Landlord buyes goods of the Mercer, Grocer, Vintner, or the like, or from all, then he is made debtor, and the Mercer or other Trades-man creditor, then it may be ſuch Mer<g ref="char:EOLhyphen"/>cer
+<pb n="5" facs="tcp:48908:6"/>or other Tradesman buyes goods from the ſame Merchant who firſt took up credit, and ſtands yet debtor: but upon ſale of his goods to the Mercer or other Trades-man, both clear their accounts in the office, and ſo in all Trades, as occaſion preſents.</p>
+               <p>Again, ſeveral Merchants have credit in the office, as for example, <hi>A.</hi> hath 1000 l. <hi>B.</hi> 2000. and <hi>C.</hi> 3000 l. and ſo more or leſs, <hi>A.</hi> hath oc<g ref="char:EOLhyphen"/>caſion to pay unto <hi>B.</hi> 500 l. which he requireth the office to do; where<g ref="char:EOLhyphen"/>upon they make <hi>A.</hi> debtor for 500 l. and C. creditor for the ſame ſumme. So that <hi>A</hi> having aſſigned unto <hi>B.</hi> 500 l. hath now no more but 500 l. in the office, where he had a 1000 l. before, and <hi>B.</hi> hath 2500 l. where he had but 2000 l. before, and ſo in the ſame manner of aſſignation, <hi>B.</hi> doth pay unto <hi>C.</hi> and <hi>C.</hi> unto others, without touching one farthing of Money.</p>
+               <p>The ſecond way of proceeding in this office, is to take at the delivery of any goods, one conditional bond, to have upon the return of ſo much credit and charges, the goods ſpecified in the bond or ſchedule annexed, returned, and an other bond of the ſumme credited, which the office will renew to every perſon to whom it is transfer'd. As for example, <hi>A, B.</hi> a Merchant hath a bond from the office of 100 l. with which he buyes ſo much cloath of a Clothier, whoſe name the office inſerts creditor, in a new bond: the Clothier buyes wool of a Gentleman, to the ſame value whoſe name likewiſe is inſerted, in an other new bond (the old ſtil ſup<g ref="char:EOLhyphen"/>poſed to be delivered, and each creditor every time regiſtred) the gentle<g ref="char:EOLhyphen"/>man owes a Mercer as much, wherefore he gets the office to make a new bond to the Mercer, the Mercer buyes to the like value of ſilkes and velvets, of <hi>A. B.</hi> the Merchant who returns to the office the two bonds, the one for his goods, the other for his credit, and with them redeems his own goods. You may note, that it is not abſolutely neceſſary for a man to bring again the very bond of credit, that had its riſe from his own goods but any mans bond of credit of the like value is as ſufficient, or elſe ſo much Money, which muſt anſwer any perſon that brings the bond at the years end, at which time it becomes due.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III</hi> The Charges and Termes upon which the Office receives Credit.</head>
+               <p n="1">1. THe Firſt Deliverer or Proprieter when he <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his goods is to pay <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:48908:7"/>in the Office, according to the following rates <hi>(viz)</hi> one penny for e<g ref="char:EOLhyphen"/>very 5 l. credit raiſed on them if under 100 l. if 100 l. 1. s. and every 25 l. more 3 d. and ſo proportionably for more or leſs: or for Summes riſing by 25 l. three pence per week: and by 5 l. one penny per week, which is for the appraiſing, regiſtring, ſtowing, careful pre<g ref="char:EOLhyphen"/>ſerving from accidental damage, <hi>&amp;c.</hi>
+               </p>
+               <p n="2">2. Warehouſe-Room muſt be paid according to the nature of the Commodity, as cheap or cheaper then elſe where, as for example: for Plate, Jewels, Musk, Amber-greaſe and ſuch like, which takes up ſmall room, for every ten pounds worth of credit, one penny per moneth.</p>
+               <p>For Silk, fine Linnen, rich Furres, Band-ſtrings, Laces <hi>&amp;c.</hi> one farthing per week for five pounds worth. For courſe Linnen, Turkey Carpets, Hangings, Pictures, <hi>&amp;c.</hi> one half-penny per week, for five pounds worth. For Beds, Bedſteads, Chairs, Stools, Tables, Hemp, Flax, Cordage &amp; other courſe mean goods and lumber, one penny per week for every five pounds worth, which prizes are little or nothing more then Room will coſt them elſe where, and when one hath Commodities there muſt be place got for them.</p>
+               <p n="3">3. That the perſon delivering Credit, payes each time for the regi<g ref="char:EOLhyphen"/>ſtring of it, from five pound to twenty five pound one penny. From 25. pound to 50 pound two pence. From 50 pound to 75 pound three pence. From 75 pound to 100 pound four pence, and ſo proportionab<g ref="char:EOLhyphen"/>ly for more or leſs: which few men but will think it well beſtowed, rather than be at the trouble of telling, carrying, hazard, of loſs of ſome, by clipt or counterfeit money: or of the whole by Theives.</p>
+               <p>This way can be effected with eaſe to the Cuſtomer, and the Office, and no damage to either, but, becauſe of the vain jealouſies and peeviſh humours of ſome men, and the little or no countenance or aſſiſtance this new Office can hope for from the Law of <hi>England,</hi> till the great &amp; innume<g ref="char:EOLhyphen"/>rable advantages which attend it, become through practice, viſible to the Worthies in Parliament, and from them obtain ſuitable encouragement, the Undertakers, for their own ſecurity are compelled to be at greater trouble, and occaſion the like, with ſomething greater charge to ſuch as may frequent the Office: from which ſuperfluous charge and trouble, 'tis hoped that they may be delivered, when once it ſhall have the happineſs to be debated by the Parliament.</p>
+               <p>One trouble and ſuperfluous Charge then is the making and paying for each Bond 6 pence, as often as 'tis transferred.</p>
+               <p>The Office will ſometimes for the accomodation of a Cuſtomer, if he
+<pb n="7" facs="tcp:48908:7"/>have occaſion for Money in <hi>Specie,</hi> furniſh him before the time, but that is a work of ſupererrogation.</p>
+               <p>The Office is, at firſt, but four hours in the day open, that is from 9. to 11. in the morning, and from 3. to 5. in the afternoon.</p>
+               <p>It receives no Goods of ſo ſmall a value, as will not raiſe 5. <hi>l.</hi> Credit, nor for leſſe time than a Week.</p>
+               <p>The publick Outcry before mentioned, after the firſt year, is to be held at certain times every Moneth.</p>
+               <p>The manner of ſelling them is at the Deliverers choyce, whether to begin a high price and fall, or a low price and riſe. Or elſe, the Com<g ref="char:EOLhyphen"/>modities being valued, as many as are willing to buy it, ſhall put in ſo many equall parts of the whole ſumme, and have ſo many Lots put in, whereof one contains the Priſe, and every one receiving a Lot, is certain that one gains the Priſe, the other bear the loſſe, after the manner of rifling. The Goods to be ſold, are to be expoſed in an open Hall, to publick view, two or three dayes before.</p>
+               <p>All Merchants, or others, may have convenient Warehouſe-room in the Office, paying the ordinary Rates, and if at any time they deſire to uſe the Credit of all, or part of their goods from that time they begin, the firſt forementioned Charge, and the Warehouſe as before. And when they have no longer occaſion for the Credit, they may return it with the Charges, and continue them as before as long as they pleaſe, upon the ſingle charge of the Warehouſe.</p>
+               <p>All perſons are deſired to enter a Caveat at the Office, as ſoon as they have received any loſſe, that the Office may put a ſtop, if in caſe any ſuch Goods ſhould be brought, for which Entry they pay 4. <hi>d,</hi> and after the Rate of 1. <hi>d. per</hi> pound, if found.</p>
+               <p>They are likewiſe deſired (if they ſuppoſe themſelves wronged) to en<g ref="char:EOLhyphen"/>ter their Complaints, at a place daily appointed in the Office; which upon proof, ſhall receive immediate redreſſe; which if they find not, they may appeal to the Court of Aldermen, or — who will redreſſe them, by ſecurity depoſited in their hands to that purpoſe.</p>
+               <p>Every perſon, for his own and the Offices ſecurity, is deſired to ſend his Goods, which can be carried by Porters, by the Porters of the Of<g ref="char:EOLhyphen"/>fice, whom they may know by the City and the Office Ticket.</p>
+               <p>Any man that is deſirous to free himſelf of the trouble, of comming to make Roceipts or Payments in the Office, may entruſt ſome one Ser<g ref="char:EOLhyphen"/>vant of his, and preſent him to the Office, and they will obſerve his di<g ref="char:EOLhyphen"/>rection, till countermanded by the principall.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="8" facs="tcp:48908:8"/>
+               <head>
+                  <hi>CHAP. IV.</hi> The Publick and Private Advantages.</head>
+               <p>THe publick and private Advantages may be ſomething gueſt at, by thoſe which attend Banks and Lumbards; for by the help of the Bank, Trade is as much augmented, as if there were twice the quantity of Money in the place as there really is; for being depoſited in Bank, the Credit is currant, and the <hi>Specie</hi> likewiſe: and a Lumbard ſupplies many to follow their Callings, who having no other Credit, but what their Goods can gain them, muſt neceſſarily otherwiſe periſh; yet 'tis but a commendable accommodation of the Needy, being not able to receive more Goods then it hath Money to anſwer. So that a Bank doth but double the ſtock, and a Lumbard cannot exceed it: both which are far ſhort of this Office, which can augment the Trade ſo many fold as the Wares in the Nation exceed the Moneys, which may be 20. or 40. Nor is it ſtinted like the Lumbard, but can deliver out Credit, as long as there are Commodities to be brought in, were they millions, and is as well for the conveniency of the Rich, as the benefit of the poor.</p>
+               <p>This Office being encouraged, Trade can never languiſh, unleſſe in<g ref="char:EOLhyphen"/>terrupted by Force or Warrs, which at preſent is obſtructed, or declines, either becauſe the Money of the Nation is diminiſhed, or that there is not a proportion of <hi>Bullion</hi> imported correſpondent to other Commo<g ref="char:EOLhyphen"/>dities: and ſo one ſlow or diſhoneſt man, for want of payment, can for ſo much obſtruct the Trade of 100. or more perſons.</p>
+               <p>Having thus made a compariſon betwixt the Bank and Lumbard, and this Office, we will now enumerate the conſequent benefits.</p>
+               <list>
+                  <head>First to the Publick.</head>
+                  <item>1. Whatſoever quantity of Credit ſhall be raiſed in this Office, will be as good, and of as much uſe, as if there were ſo much Money in <hi>ſpecie,</hi> added to the preſent ſtock in the Nation.</item>
+                  <item>2. That the Trade of theſe Nations will be encreaſed proportionably to the Credit raiſed in the Office.</item>
+                  <item>3. That the Kings Cuſtomes and Exciſe will be improved, according to the increaſe of Trade, which (by this Office) may modeſtly be ſuppo<g ref="char:EOLhyphen"/>ſed in two or three years time, to be increaſed to twenty times as much as</item>
+                  <pb n="9" facs="tcp:48908:8"/>
+                  <item>4. That large Stocks may be ſuddenly raiſed, for the better mannage<g ref="char:EOLhyphen"/>ment of the Fiſhing in the three Kingdomes, or any other conſiderable Trade, as that of <hi>Guine,</hi> and the <hi>East</hi> and <hi>Weſt-Indies.</hi>
+                  </item>
+                  <item>5. That more Manufactures will be made, as to Quality and Quan<g ref="char:EOLhyphen"/>tity.</item>
+                  <item>6. That all Lands may be improved, waſte Grounds manured, and Mines now neglected, wrought in to the great increaſe of Exporta<g ref="char:EOLhyphen"/>tions.</item>
+                  <item>7. That it will be a meanes to encourage new and revive old Inven<g ref="char:EOLhyphen"/>tions.</item>
+                  <item>8. That it will probably make a greater and quicker Trade, whereby the number and eſtates of the Rich will be augmented, and the number and neceſſities of the Poor diminiſhed.</item>
+                  <item>9. It will prevent mens being, through miſerable poverty, neceſſi<g ref="char:EOLhyphen"/>tated to cheat and rob, for there will be plenty of employment, for all that will work, which by wofull experience is now found to be con<g ref="char:EOLhyphen"/>trary.</item>
+                  <item>10. <hi>Ireland</hi> and <hi>Scotland</hi> may flouriſh without damage to <hi>England,</hi> which, notwithſtanding their abounding with ſubſtantial Commodities, languiſh.</item>
+                  <item>11. All ſorts of Wares will be afforded at cheaper rates, without preju<g ref="char:EOLhyphen"/>dice to thoſe that make them and ſell them, becauſe trading will be grea<g ref="char:EOLhyphen"/>ter, quicker, and as good as with ready money.</item>
+                  <item>12. Credit can neither be tranſported to the Nations diſadvantage, nor hoarded up.</item>
+                  <item>13. Engliſh Merchants will be enabled to engroſs the Commodities of another Countrey, and to withhold it from others, as the Dutch do at preſent, by the help of their Banks.</item>
+                  <item>14. It will procure the Engliſh Merchants credit, in forreign parts, and Banks to buy any commodities there without money, as well or better than with money.</item>
+                  <item>15. That <hi>England</hi> (being ſo conveniently ſituated, ſtored with ſafe Harbours, and bleſſed with plenty of ſtaple Commodities and Proviſi<g ref="char:EOLhyphen"/>ons) may (when by this Office ſupplied with as much Stock as is neceſſa<g ref="char:EOLhyphen"/>ry) become the <hi>Emporium</hi> of <hi>Europe,</hi> if not of the World.</item>
+               </list>
+               <pb n="10" facs="tcp:48908:9"/>
+               <list>
+                  <head>
+                     <hi>Secondly,</hi> Private Benefits are either to the party receiving, or the party raiſing Credit.</head>
+                  <item>1. The trouble of counting Money may be much avoided.</item>
+                  <item>2. The uſual loſſe by receiving counterfeit and clipt Money, will be ſaved.</item>
+                  <item>3. Many fruitleſſe journeys for Moneys will be ſpared.</item>
+                  <item>4. There will be fewer bad Debts, and fewer impriſoned for them.</item>
+                  <item>5. There will be fewer ſuits of Law about ſuch Debts.</item>
+                  <item>6. Moſt men will rather deal with perſons that have credit in the Of<g ref="char:EOLhyphen"/>fice, than upon their ſingle credit, for then they deal ſecurely, which moſt (having through the deceitfulneſſe of men ſmarted ſo much) do earneſtly endeavour.</item>
+               </list>
+               <list>
+                  <item>1. Men may be furniſhed at 3 and 5 <hi>per cent.</hi> at moſt, to ſupport their credit, and enable them to manage their Trades, and take the ad<g ref="char:EOLhyphen"/>vantage of the Market.</item>
+                  <item>2. Men may be aſſured not to fail, at all times, of the accommodation of credit upon their Wares.</item>
+                  <item>3. There is no danger of having the Goods imbezel'd, as with Broa<g ref="char:EOLhyphen"/>kers.</item>
+                  <item>4. More care againſt Fire and Thieves, than any perſons can have in their own houſes.</item>
+                  <item>5. Unvendable Goods may then be ſold, or, at leaſt, their credit currant,</item>
+                  <item>6. The ſale of Commodities is not at all retarded, every perſon ha<g ref="char:EOLhyphen"/>ving the freedome of bringing his Chapmen to view them.</item>
+                  <item>7. Men will not be neceſſitated to under-ſell the Market, to procure Money to pay Debts.</item>
+                  <item>8. Prevention of hard Bargains, by taking Ware on truſt.</item>
+                  <item>9. They will be enabled to make quicker returns, and trade for five times as much as they can do now, without being truſted.</item>
+               </list>
+               <p>There will be likewiſe leſs trouble to both, in the keeping of their Accompts. So that, in fine, it will encreaſe Trade and Wealth, and em<g ref="char:EOLhyphen"/>ploy the Poor; nay do more then Money, which <hi>Solomon</hi> ſaid, did an<g ref="char:EOLhyphen"/>ſwer all things.</p>
+               <pb n="11" facs="tcp:48908:9"/>
+               <p>To confirm many of theſe Benefits, we have quoted <hi>page</hi> 71.73.153.154.155. of that Authentick <hi>Lex Mercat.</hi>
+               </p>
+               <p>The Inconveniencies which have crept into Uſe, for want of this or Lumbards (beſides the privation of the premiſed Benefits) have been the intollerable Grievances, Oppreſſions, and Exactions of <hi>Broakers,</hi> in their taking 30.40.50.60. and more <hi>per Cent, per Annum:</hi> and taking advantage, if Goods be not redeem'd at the prefixed time, to convert them to their own uſe, having, it may be, not Lent a fourth of the va<g ref="char:EOLhyphen"/>lue: their Breaking or Dying, and ſo the Goods are Imbezled by Exe<g ref="char:EOLhyphen"/>cutours, with many more, which are connived at, till a better Accommo<g ref="char:EOLhyphen"/>dation may be invented.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <p>HAving thus in ſome meaſure Explained the Nature of this Office, and its Benefits, we will come to anſwer ſuch Objections as have been made.</p>
+               <p>Objection 1. <hi>That there is no need of this Office, becauſe there is Money and Trade enough.</hi>
+               </p>
+               <p>We would firſt willingly know, how many there are, that have ſo much Money, that they know not what to doe with more, if they had it? If there be few or none ſuch, then ſurely this Office may be neceſſary; for it can enable a Man by the Uſe of it, to deal for ſix times, or at leaſt double, what he is worth, and yet never be Truſted. As ſuppoſe a <hi>Silk-man</hi> be worth a thouſand pound, with which he buyes <hi>Silk,</hi> he brings this into the Office, and raiſeth 9/10 of the worth, which is nine hundred pound; or more or leſſe, according to the nature of the Com<g ref="char:EOLhyphen"/>modity, with which he buyes again from the ſame Merchant more, and brings that alſo to the Office to raiſe Credit, and ſo one upon the o<g ref="char:EOLhyphen"/>ther, according to theſe following Examples.</p>
+               <p>The Rule of the Office being, for the moſt part, to Lend ¾. 9/10. and ½.</p>
+               <pb n="12" facs="tcp:48908:10"/>
+               <p>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Example</hi> 
+                        </cell>
+                        <cell role="label">1.</cell>
+                        <cell role="label">2.</cell>
+                        <cell role="label">3.</cell>
+                        <cell role="label">4.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Principal.</hi> 
+                        </cell>
+                        <cell>1000</cell>
+                        <cell>1000</cell>
+                        <cell>1000</cell>
+                        <cell>100</cell>
+                     </row>
+                     <row>
+                        <cell rows="14"> </cell>
+                        <cell>750</cell>
+                        <cell>900</cell>
+                        <cell>500</cell>
+                        <cell>90</cell>
+                     </row>
+                     <row>
+                        <cell>565</cell>
+                        <cell>810</cell>
+                        <cell>250</cell>
+                        <cell>80</cell>
+                     </row>
+                     <row>
+                        <cell>280</cell>
+                        <cell>730</cell>
+                        <cell>125</cell>
+                        <cell>70</cell>
+                     </row>
+                     <row>
+                        <cell>210</cell>
+                        <cell>655</cell>
+                        <cell>60</cell>
+                        <cell>65</cell>
+                     </row>
+                     <row>
+                        <cell>155</cell>
+                        <cell>585</cell>
+                        <cell role="label">1935</cell>
+                        <cell>60</cell>
+                     </row>
+                     <row>
+                        <cell>100</cell>
+                        <cell>525</cell>
+                        <cell> </cell>
+                        <cell>55</cell>
+                     </row>
+                     <row>
+                        <cell role="label">3060</cell>
+                        <cell>470</cell>
+                        <cell> </cell>
+                        <cell>50</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>435</cell>
+                        <cell> </cell>
+                        <cell>45</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>300</cell>
+                        <cell> </cell>
+                        <cell>40</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>270</cell>
+                        <cell> </cell>
+                        <cell>35</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>250</cell>
+                        <cell> </cell>
+                        <cell>30</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>130</cell>
+                        <cell> </cell>
+                        <cell>25</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell>100</cell>
+                        <cell> </cell>
+                        <cell>20</cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="label">7160</cell>
+                        <cell> </cell>
+                        <cell role="label">765</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>By which 'its evident, that this Silkman may multiply his ſtock to 7161 l. without ever being Credited, for the Merchant is paid in credit which is currant, and the Silkman as faſt as he can get a chapman, may either ſell at his ſhop, or the Office: where the whole charge after three <hi>per Cent p. an.</hi> comes for a half year to an 105 l. if no part were in that time ſold, and his gains at 10 <hi>per Cent.</hi> the uſual gaine comes to 716 l. where his gain would without this help, have been but 100 l. after the ſame rate. Beſides this hinders him not from buying half upon credit, and then his ſtock would have been 14322 l. and his gains proportiona<g ref="char:EOLhyphen"/>ble, or ſuppoſe leſs credit were lent out of the Office, taking one commo<g ref="char:EOLhyphen"/>dity with an other, according to the firſt and third examples, it does treble or double the principal ſtock. I have likewiſe added a fourth ex<g ref="char:EOLhyphen"/>ample of a ſmaller ſum (upon which 90 in the hundred is lent) that the vulgar capacities may the better underſtand the advantage and profit.</p>
+               <p>We muſt note that a man is obliged neither to buy alwayes from the ſame Merchant, nor the ſame commodities, but from whom and what he pleaſeth, the credit being currant.</p>
+               <p>But thoſe Objectors take this aſſertion for granted, becauſe they and ſome they know, have no want of either Money or Trade, w<hi rend="sup">ch</hi> is a deceitful
+<pb n="13" facs="tcp:48908:10"/>calculation. For, 1. If there were never ſo little Money, and bad Trade, yet ſome would fare well enough, though the fewer.</p>
+               <p n="2">2. If there were Moneys and Trade enough, I ſuppoſe thoſe abound<g ref="char:EOLhyphen"/>ing Merchants would not meet ſo often with bad Debts, and delatory Payments, as hath been uſual.</p>
+               <p n="3">3. The failing of ſo many Houſe-keepers, ſeems to prove, that either there is leſs Money, or a greater quantity of Men to uſe it, and ſo leſſe falls to every one's ſhare, which is unavoidable, unleſſe that Money en<g ref="char:EOLhyphen"/>creaſed as faſt as Men, or prevented by this expedient, which (though Men and Goods increaſed <hi>ad infinitum</hi>) can accommodate them all with Credit, which anſwers all the uſes and advantages of Money.</p>
+               <p n="4">4. Notwithſtanding the generallity of men, through prudence or ne<g ref="char:EOLhyphen"/>ceſſity, contract their expences, yet grow they never the richer, but rather poorer: For as all men contract their expences, ſo every Tradeſ-man muſt neceſſarily receive leſſe, and then the Commodities lie the longer in the Merchants hands. So that, where there is a leſſe conſumption of In<g ref="char:EOLhyphen"/>land and Forraign Commodities, and a decreaſe of moſt mens profits and gains, we muſt needs conclude, the Money of the Nation is dimini<g ref="char:EOLhyphen"/>ſhed, or that ſome rich Miſer hoards it up to look on. For, if it were in the Uſurers hands, it would, upon good Security, be ſent abroad a<g ref="char:EOLhyphen"/>again.</p>
+               <p>And laſtly, Though there be the ſame ſtock of Money, but a greater quantity of Commodities than uſually imported, Money being the <hi>Me<g ref="char:EOLhyphen"/>dium,</hi> they muſt needs lie dead, till it can go round. For as an hundred yards of cloth requires longer time to be meaſured with one yard than 10 yards, ſo doth much and many Commodities require a longer time to have the ſame quantity of money anſwer it, than fewer, and it will ſoon<g ref="char:EOLhyphen"/>er run through ten mens hands than twenty.</p>
+               <p>But the infallible ſigne of plenty of Money, and a flouriſhing Trade, is, when multitudes have great dealing, and every man that is willing to work be full of employment; which how far theſe pre<g ref="char:EOLhyphen"/>ſent times come ſhort off, let the underſtanding Header judge.</p>
+               <p>By the help of this Office, if all the Commodities of <hi>Europe</hi> were brought in, there could be no ceſſation of Trade, for the credit of one Commodity, would ſtill meaſure and purchaſe another; and what could not be ſpent in <hi>England,</hi> might then, by the credit of other Commodi<g ref="char:EOLhyphen"/>ties, be tranſported to other Countreys to find a Market; which now, for want of Money to anſwer, it lies rotting here.</p>
+               <p>But the moſt pertinent anſwer is, that it will ſoon be decided, whe<g ref="char:EOLhyphen"/>ther
+<pb n="14" facs="tcp:48908:11"/>there be need of this Office, or no? For if there be no need of it, it will have no cuſtomers, and if it have cuſtomers, it will be an undeniable argument, that there is need of it. <hi>Vide Lex Mercat. p.</hi> 48. <hi>pargr.</hi> 4. <hi>&amp; p.</hi> 53. <hi>par.</hi> 8.</p>
+               <p>Obj. 2. <hi>That it is a new thing.</hi>
+               </p>
+               <p>I anſwer, That if no new things were to be received, how come we by all thoſe Commodities which <hi>Adam</hi> neither knew nor needed. For all our Enjoyments are new. <hi>Adams</hi> Food was nothing but the fruits of Plants and Water, and his Raiment Fig-leaves. Beſides, I may ſay, that moſt of our great Offices, which are now of full and undoubted Re<g ref="char:EOLhyphen"/>putation, were ſometime new, as the Poſt-office, &amp;c.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI.</head>
+               <p>Obj. 3. <hi>THat it is not practicable.</hi>
+               </p>
+               <p>I Anſwer, That what is already practiſed in other Coun<g ref="char:EOLhyphen"/>treys, is practicable, as Lumbards and Banks. For Goods can be brought by the Proprietor, received, regiſtred, and ſecurely repoſited by the un<g ref="char:EOLhyphen"/>dertakers, as in Lumbards and Men, for the value of them, can be entred Creditor and Debitor, as they are, for the value of Money in bank, and ſo can it be transferred. In all this, there is no ſuch Herculean labour. <hi>Vide Lex Mereat. p.</hi> 73. <hi>Regiſter.</hi>
+               </p>
+               <p>Obj. 4. <hi>That it is not ſafe under a Monarch.</hi>
+               </p>
+               <p>There was Anſwer made, by a noble Earl. That it was ſtrange, that any good thing, which was practicable in a worſe Government, ſhould not be ſo in the beſt, which is confirmed by the Bank of <hi>Florence,</hi> whoſe Duke is a Monarch. To which I will adde further, That our Soveraign ſtudies to advance, not to deſtroy Trade. We may likewiſe queſtion, whether the Bank of <hi>Amsterdam</hi> can anſwer every Creditor, or no? And no doubt they would, in neceſſity make bold with the Bank, rather than loſe that and City alſo, ſo that it is not wholly exempt from dan<g ref="char:EOLhyphen"/>ger under a free State. But this Office is freed from thoſe jealouſies; for here is not a vaſt maſs of Money, which bears no mans mark, but the Kings, where no piece can be claimed by any man as his own; but a Store-houſe of Goods, every parcel of which beares its owners mark, and cannot be carried away and divided, and payment made of it, as of
+<pb n="15" facs="tcp:48908:11"/>Money, nor will it be a greater temptation to any Prince to ſeize on them ſooner for being in one Houſe, than if in one City: and, if we ſhould fear that, we muſt not get Goods into our Shops and Warehouſes, for fear of Plundering, which can but be expected from forreign Ene<g ref="char:EOLhyphen"/>mies, not from our own Prince, who binds himſelf to Govern by Law.</p>
+               <p>Nor can we ſuppoſe any Prince to underſtand his own intereſt ſo little, as to hazard the affections of ſo many of his ſubjects, as may be concern<g ref="char:EOLhyphen"/>ed in this Office, in being Deliverers of Goods; and Creditors (ſome of which may be clamorous Poor) together with the Undertakers, and the many Officers and Labourers, who ſhall be employed in ſo general and profitable an undertaking, by ſeizing the goods in the Office, whereby he alſo will diminiſh a great part of his own revenue of Cuſtomes and Ex<g ref="char:EOLhyphen"/>ciſe, which by it receives a 3 or 4 fold augmentation, if not much more without a Solaeciſme, and will ſink with it, as alſo ſuch a proportion of the Trade of the whole Nation as is cauſed by it. We may as well be<g ref="char:EOLhyphen"/>lieve he will ſell his revenue for two or three yeares purchaſe, for (though there may be a much greater value of Commodities) yet in ſuch a pub<g ref="char:EOLhyphen"/>lick calamity (if they were expoſed to ſale, they being otherwiſe of little uſe) it were a queſtion whether Chapmen could be found, and if found, they would never give a quarter of the value for them. And after ſuch a violation, the <hi>Office</hi> muſt never hope for Credit, ſo that ſuch a Prince will irrecoverably loſe a certain increaſing Revenue, and the means of great Wealth to his Subjects, for that which will very doubtfully yield him the value of two yeares purchaſe. And if we ſhould fear his Bor<g ref="char:EOLhyphen"/>rowing upon occaſion, becauſe a Society, we may as well argue, 'tis dan<g ref="char:EOLhyphen"/>gerous to live in a City, to be of the <hi>Eaſt-India</hi> or <hi>Guine</hi> Company, or any other Corporation; but we ſee the contrary.</p>
+               <p>Objection 5. <hi>That there cannot be ſufficient Security given to an<g ref="char:EOLhyphen"/>ſwer the Truſt.</hi>
+               </p>
+               <p n="1">1. I anſwer: The Intereſt of the Undertakers, or at leaſt their Bonds, will make them honeſt, and their Cuſtomers will make them able.</p>
+               <p n="2">2. It ſhall be given to the City, or to every private perſon that deſires it, when he uſes the <hi>Office.</hi>
+               </p>
+               <p>And if any man hath a jealouſie that he is wronged, either in his Goods or Credit, he can immediately examine, and if he believes him<g ref="char:EOLhyphen"/>ſelf in jured, let him inſtantly enter his Complaint, and upon proof ſhall receive from the <hi>Office</hi> preſent redreſſe, as before mentioned, or elſe
+<pb n="16" facs="tcp:48908:12"/>he may take his remedy at Law, againſt the whole, or any part of the Society.</p>
+               <p>Objection 6. <hi>That it will be a Diſcredit for the Credible Mer<g ref="char:EOLhyphen"/>chants to Morgage their Goods.</hi>
+               </p>
+               <p>I anſwer: That it being honeſt and profitable, when it is once com<g ref="char:EOLhyphen"/>mon, it will be no Diſrepute, according to the <hi>Dutch</hi> Proverb, <hi>Lants wyſe Lants eer,</hi> Countrey Cuſtome is Countrey Honour, eſpecially when it will not alwayes be Neceſſity, but for the moſt part Induſtry, that will invite men to the uſe of it, as in <hi>Lex Mercat.</hi> fol. 153. For 'tis a diſre<g ref="char:EOLhyphen"/>pute only when a man is thought to have reduced himſelf to that neceſſity, through imprudent and vitious Courſes; for ſhame and diſcredit, ought only to be the reward of vice: ſo that if a perſon were reduced to ſuch neceſſity, by Fire, Warre, Thieves, Loſſe at Sea, or any ſuch like Caſu<g ref="char:EOLhyphen"/>alty, it would become us rather to pity than ſcorn him. Now, contrary<g ref="char:EOLhyphen"/>ly, to ſuch as uſe this Office, in order to an induſtrious improvement of their Eſtates, is the greateſt honour and commendation, due: and con<g ref="char:EOLhyphen"/>ſequently, Scorn and Contempt, to thoſe who through Folly, and Sloth reject it.</p>
+               <p n="2">2. If it be a diſcredit or Damage to any, it muſt be only to thoſe that Trade with other mens Stocks, who having little, may be unwilling to be thought to have leſſe. For they who trade with their own, if they have but honeſt Gain to Warrant them, eannot be injured, neither in Re<g ref="char:EOLhyphen"/>putation, nor Goods, and this Office invites only ſuch as may receive ac<g ref="char:EOLhyphen"/>commodation, not inconvenience from it.</p>
+               <p n="3">3. If it be a diſcredit, I know none are exempted from it, or a greater, but ſuch as can raiſe Money on their word or ſingle Bond, for the reſt, if they will have money, they muſt Pawn either Land, Goods, or Friend: and whether it be not ten times more honeſt and Credible, to pawn either of his own, than his Friend, I leave the ingenuous. Reader to judge, and yet we know that many a good and rich Merchant, doth Pawn both Land and Friends, and ſome (I am informed) doe Goods, which may as fitly be as the other: Nor can I judge it a greater diſcredit, to be Debitor to the Office, upon the ſecurity of Goods, than to any perſon whatſoever upon perſonal Security.</p>
+               <p n="4">4. It may be ſo ordered, if men pleaſe themſelves, that no man can know whoſe Goods are brought into the Office, but the Party himſelf, and the Officers, for he needs but ſend his Goods by an Office-out-Port<g ref="char:EOLhyphen"/>er, who is employed in other, as well as the Office buſineſſe, and is known by the City Ticket, and the Office Silver Ticket, which he carryes on his
+<pb n="17" facs="tcp:48908:12"/>Breaſt; this Porter ſees them Appraiſed and Regiſtred, and the Deliver<g ref="char:EOLhyphen"/>er entred Creditor, for ſo much, which Credit, when he diſpoſeth of it, the Party receiving it, cannot tell whether it was raiſed or received. And if the Deliverer have a mind to come and fee his Goods, 'tis no more than many men do, to view and buy Goods; ſo that no Stranger can tell whether they be his own, or that he would buy them; and the Office, if he gives them Commiſſion, will ſell them for him, if Whole-ſale, and if Retail, then they can be brought in and out without any notice, but the Offices, for they need no Chapmen.</p>
+               <p n="5">5. It is very poſſible, that a reſponſible Merchant, may want ready money, to anſwer a Bill, which it will be more diſcredit to faile to diſ<g ref="char:EOLhyphen"/>charge, than to raiſe credit, and it will be more prudent to raiſe it in the Office, for three <hi>per Cent.</hi> where they are tyed but by Weeks, then elſe where, at ten <hi>per Cent.</hi> without it.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <p n="7">7. Object. <hi>THat Goods will yeild a leſſe Price for being mort<g ref="char:EOLhyphen"/>gaged.</hi>
+               </p>
+               <p>I anſwer, when 'tis known that conveniencie as well as neceſſity, in<g ref="char:EOLhyphen"/>duceth men to bring thither their Goods: they will not offer leſſe than if it were in their own Ware-houſes.</p>
+               <p n="2">2. Such as may bring them thither for neceſſity, will be no looſer, for if they cannot have a good price, their wants being ſupplied by the Office, they can wait till they may, and if none can be procured they may if they pleaſe, have them offered at the out-cry, where perchance they may yeild more then elſe-where.</p>
+               <p n="3">3. The Office may chance to help them to Cuſtomers, knowing the loweſt rate they can be afforded at.</p>
+               <p n="8">8. Object. <hi>Made by ſome, that there being no convenient place be<g ref="char:EOLhyphen"/>low Bridge, there will be danger in ſhooting it to bring the Commodities to the Office.</hi>
+               </p>
+               <p>I may reply, that it is their own fault, if they put it to a hazard, ſince, at leaſt once every day, one may paſſe the Bridge; <hi>viz.</hi> at almoſt high Water, without the leaſt danger.</p>
+               <p n="9">9 Object. <hi>That goods will ſpoil in the Office through neglect:</hi>
+               </p>
+               <p>Wee anſwer, that every one hath liberty, as in a pound Ouvert to take care of his own goods.</p>
+               <p n="2">2. It will concern the Office, to keep ſervants on purpoſe to uſe all
+<pb n="18" facs="tcp:48908:13"/>means of preſerving the Goods: from Mould, Mildew, Canker, Ruſt Rats, Mice, Mothes, Spots, Staines, Wet, Duſt, Rot, <hi>&amp;c.</hi> Becauſe they are not aſſured the Deliverer will redeem them: if therefore any Damage ſhould happen to the goods, they will hardly reimburſe the Office their credit and charges.</p>
+               <p n="3">3. Notwithſtanding this Objection, we ſee Lumbards beyond Sea, are frequented, and we ſhall have the ſame or greater care.</p>
+               <p n="10">10. Object. <hi>That Goods will be Damnified in the removing.</hi>
+               </p>
+               <p>We Anſwer,</p>
+               <p>That Goods which are to be fixed, wee deſire not, and for moveables, they uſually are often removed, and cannot be much Damnified by once or twice removing. Beſides, if Merchants pleaſe, they may have their conſtant ware-houſe room, at the Office, paying no more then elſe<g ref="char:EOLhyphen"/>where, and then they may ſend their Goods from the Cuſtome-houſe immediately thither.</p>
+               <p n="11">11. Object. <hi>The Foundation of the Credit bad, becauſe upon pe<g ref="char:EOLhyphen"/>riſhable Goods.</hi>
+               </p>
+               <p>Wee ſay, that though the Goods are periſhable, yet the Credit is good becauſe they are alwaies diſpoſed off, either by redemption or ſale, before they can periſh, and if the Credit be not redeemed, there is Money or o<g ref="char:EOLhyphen"/>ther ſubſtantial goods ſtill to anſwer it.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CHAP. VIII.</head>
+               <p n="12">12. Object. <hi>THat Men will have Money and not Credit.</hi>
+               </p>
+               <p n="1">1. Wee will define Credit, and ſee how far 'tis already practiſed amongſt us, and what makes men accept it here, and from the Banks beyond Sea.</p>
+               <p n="2">2. Wee will conſider what Money is, and how it comes to be ſo de<g ref="char:EOLhyphen"/>ſireable, and then comparing both, leave it to the underſtanding Reader to judge, whether credit or Money be moſt uſeful, alluring or Inviteing.</p>
+               <p n="1">1. Credit is the reputation of Mans honeſty, or abilitie, or of a things intrinſick value which both which Qualifications this Office is ſufficiently endowed.</p>
+               <p>Credit in <hi>Amſterdams</hi> Bank, is but to be regiſtred Creditor, and this paſſeth currant, not onely becauſe a Man may have money for it, when he will, but becauſe of its known reputation, for every man will receive
+<pb n="19" facs="tcp:48908:13"/>it, and pay debts, or buy any where commodities, none refuſing it, they being aſſured, it hath a valuable pledge in a ſecure place, which Pledge cannot be removed till the Creditor, who ever he be, ſhall be ſatisfied.</p>
+               <p>In this Office will be alwaies ſufficient Pledges of intrinſick value, to anſwer the full credit abroad: and though for the Creditors and the Officers eaſe, the Office deſires not to clear Accompts, and deliver the overplus of Credit in money in <hi>Specie,</hi> but once in a year: if then de<g ref="char:EOLhyphen"/>ſired; yet at any time, if a man hath an abſolute neceſſity for it in <hi>Spe<g ref="char:EOLhyphen"/>cie,</hi> the Office can furniſh him.</p>
+               <p>But to further ſatisfie ſome Men, how Trade can be driven, Commo<g ref="char:EOLhyphen"/>dities bought, &amp; Debts paid without Money in <hi>Specie,</hi> beſides the indubi<g ref="char:EOLhyphen"/>table certainty of it's being practiſed in the ſeveral forraign Banks; I ſhall form an example or two, of the manner and conveniences of it, as ſup<g ref="char:EOLhyphen"/>poſe <hi>A.</hi> oweth to <hi>B.</hi> 100 l. <hi>B.</hi> the like to C. and <hi>C.</hi> the like to <hi>D.</hi> and <hi>D.</hi> the like to <hi>E.</hi> and <hi>E.</hi> to <hi>F. F.</hi> to <hi>G. G.</hi> to <hi>H. H.</hi> to <hi>I.</hi> and <hi>I.</hi> to <hi>A.</hi> which if it were poſſible for them all to know, they might agree upon a Meeting, and quit each other, by reſcounter. As for example, <hi>A.</hi> quits <hi>I.</hi> he <hi>H.</hi> and <hi>H. G.</hi> and ſo on, till <hi>B.</hi> quits <hi>A.</hi> and then all are ſatisfi<g ref="char:EOLhyphen"/>ed, without one farthing being paid in <hi>ſpecie;</hi> when elſe (for want of this poſſibility of meeting, (becauſe each knows but his immediate Credi<g ref="char:EOLhyphen"/>tor and Debtor, and not the mediate) or ready money, or for default of it this Office) they are all puzled with Debts and Credits. For if <hi>A.</hi> had the Money, or raiſed Credit in the Office upon his Goods, <hi>A,</hi> would pay <hi>B.</hi> and ſo on, till <hi>I.</hi> paid <hi>A.</hi> by which it appears, if any of theſe were diſhoneſt, or diſable, what a trouble they bring upon all the reſt, and for ſo much, what a ſtop upon Trade. For though one man per<g ref="char:EOLhyphen"/>chance, is able to turn 100. <hi>l.</hi> but ten times a year, yet the ſame 100. <hi>l.</hi> may be, by many men, turned a thouſand times a year; all which, as the caſe now ſtands, may be hindred by one covetous or diſhoneſt perſon. Now, by this Office, if a man be able, his Creditors will in a manner oblige him to be honeſt for what is paſt; and for the future there will be no need of Truſting, which onely crept into the World, becauſe there was not Money enough, or that it made not ſo ſwift a Circuit as was de<g ref="char:EOLhyphen"/>ſired, to meaſure Commodities, and not becauſe the perſon credited was poor; for very few will truſt a poor honeſt man with much.</p>
+               <p>If then it be according to a mans Eſtate, why ſhould any run the ha<g ref="char:EOLhyphen"/>zard of truſting when they need not, becauſe ſuch as they would Credit may raiſe a Credit in the <hi>Office,</hi> and moſt wiſe men ſeek to deal ſecure<g ref="char:EOLhyphen"/>ly,
+<pb n="20" facs="tcp:48908:14"/>and the Credited can ſuſtain no damage, becauſe his Goods in the <hi>Office</hi> are never the further from a Market, and he can, with one Moiety of his Goods raiſe as much Credit as he can expect to be Credited with elſewhere. Note alſo, that when a Man brings Goods out of his ſhop, to raiſe Credit, ſo he brings the other Goods which he bought with that Credit, to furniſh his ſhop again: and though his ſhop may be a little the leſſe furniſhed, his Purſe will be the better by the gain: for his Trade will be ſo quickened, that he can make many more returns, which, with a ſmall ſtock, is equivalent to a greater, with fewer returns. Another Example proves this practice more clearly, without damage to any that receives this Credit, for what Commodity ſoever. As, imagine <hi>A</hi> re<g ref="char:EOLhyphen"/>ceives this Credit by Aſſignation from another, or raiſeth it upon his own Goods brought into the <hi>Office,</hi> and transferring it on <hi>C.</hi> diſchargeth a Debt, which he hath in exchange of his Credit, and ſo is not injured. <hi>C.</hi> by transferring it on <hi>D.</hi> receives from him the like value in ſuch Goods he hath need of, and ſo ſuſtains no damage by the Receipt of the Credit, becauſe he hath in Exchange as much Goods for it. <hi>D.</hi> trans<g ref="char:EOLhyphen"/>ferrs it on <hi>E.</hi> for a parcel of Land of the like value, which he purchaſeth of <hi>E.</hi> and ſo not damnified. <hi>E.</hi> transferrs it on <hi>F.</hi> as a portion with a Daughter that <hi>F.</hi> marries, <hi>E.</hi> not injured, becauſe by it he is diſengaged from the payment of a Dowry, and rids himſelf of the charge of a Daughter. <hi>F.</hi> transferrs it upon <hi>G.</hi> for the conſideration of repayment, and in the mean time, Security with Intereſt of 5. or 6. <hi>per Cent.</hi> more or leſs as they can agree. <hi>F.</hi> hath no damage becauſe he hath Security &amp; In<g ref="char:EOLhyphen"/>tereſt. <hi>G.</hi> eſteems it as good as Money, becauſe by transferring it he an<g ref="char:EOLhyphen"/>ſwers his preſent occaſions, of either paying an unavoidable Debt, or pur<g ref="char:EOLhyphen"/>chaſing his intended or neceſſary Commodities; which, as before demon<g ref="char:EOLhyphen"/>ſtrated, none will refuſe, becauſe of its conveniency of anſwering all the Intents of Money, and (if the Creditor hath urgent occaſion) at all times, or when he hath ſtood a year Creditor in the Book of the <hi>Office,</hi> can, of courſe, upon evening his Accompts, receive the Overplus in <hi>ſpecie.</hi> And though we put a ſtop to Credit at a years end, yet it might proceed to the end of the World, and no man one Farthing wronged, nor Money in <hi>ſpecie</hi> ever paid. Our daily practice of receiving Bonds, Bills, Let<g ref="char:EOLhyphen"/>ters of Credit, and Exchange, which are no more then Credit, will wit<g ref="char:EOLhyphen"/>neſſe as much. Men are likewiſe Credited according to what they have in poſſeſſion, of their own, or by Credit; for we are apt to truſt a perſon Credited by others, which I inſtance, to ſhew, that this <hi>Office</hi> (being Credited by many, and ſtored with more Goods, inſtead of being ſcru<g ref="char:EOLhyphen"/>pled
+<pb n="21" facs="tcp:48908:14"/>for having ſo many to anſwer) encreaſeth rather its reputation; for the more it hath, the more it can anſwer, and it will be the care of the <hi>Offic,</hi> being managed by wiſe and underſtanding perſons, to have no more Credit abroad, than Goods at home to ballance the ſame, it being a vanity not to be ſuppoſed in ſuch a Society, to call the Credit of the whole <hi>Office</hi> in queſtion, by ſending out Credit which hath no founda<g ref="char:EOLhyphen"/>tion within to ſupport it.</p>
+               <p>There are likewiſe theſe further Encouragements to men, to receive this Credit.</p>
+               <p n="1">1. They that raiſe it, will be ſo pleaſed at their own conveniency, of being ſupplyed at a low rate, and ſatisfied, That it will, as well redeem their Goods as money, that they will willingly receive it in payment from an other.</p>
+               <p n="2">2. Men by this means, will be enabled to pay their debts; and clear Accompts, which otherwiſe might lye a long time dorment, and it may be deſperate, to the great decreaſe of Trade.</p>
+               <p n="3">3. This credit, though a paper Record, and of no intrinſick value, yet, as a key to a rich Treaſury, keeps ſafe goods of intrinſick value, which without the key cannot be ſtirred, or like a good Mortgage which ſecures the Lands as well as if the Land were in a mans pocket, can be remor<g ref="char:EOLhyphen"/>gaged &amp; aſſigned over as well as if it were ſo much Money in <hi>ſpecie,</hi> after enquiry into the Title. And the Office deſires none to uſe it upon any im<g ref="char:EOLhyphen"/>plicite Faith, but upon full ſatisfaction, &amp; therefore hath cauſed this book to be printed, &amp; will be ready to give ſuch further reaſonable ſatisfaction as may be deſired.</p>
+               <p n="4">4. 'Tis but a token, like farthings, onely of a greater value, which farthings paſs currant, as far as the owner is known, and is not carried back ſo ſoon as received, but once a year; or ſeldomer, or oftner, upon occaſion, is brought to the Owner, and changed into ſilver, which this Office propounds to do. And ſo I come to ſhew, what money is, and its uſes, and wherein Credit correſponds to it. In this I ſhall be brief; It is a commodity appointed by the Authority of the place, for the com<g ref="char:EOLhyphen"/>mon and unalterable ſtandard to meaſure other commodities with, in ſome Countries, Bones, Beanes, Beads, Shels, <hi>&amp;c.</hi> which though of no intrin<g ref="char:EOLhyphen"/>ſick value, are made publick tickets to purchaſe any other valuable com<g ref="char:EOLhyphen"/>modity. Money is an accomptant or means by which a man keeps an ac<g ref="char:EOLhyphen"/>compt of his eſtate, and in theſe and moſt civilized parts, is either gold or ſilver ſtamped, which peices are not of the real intrinſick value they paſs for, but are made currant, by the ſtamp of the Authority of the reſ<g ref="char:EOLhyphen"/>pective countries, and was invented for the ſake of the following qualifi<g ref="char:EOLhyphen"/>cations,
+<pb n="22" facs="tcp:48908:15"/>many of which might be found in other Wares.</p>
+               <p n="1">1. Money is known by all, and therefore uſed by all, that's the reaſona man is ſaid to be worth 1000 l. more or leſs, when it may be, he hath not 10 l. Moneyes, for if they ſhould ſay he is worth 400. head of Cattle, 6 or 700 load of Hay: 150 or 200 peices of Cloath, none would know what judgement to make of it: though a man is really as rich, that hath thoſe ſe<g ref="char:EOLhyphen"/>verall goods, as he that hath Money. A man alſo needs but value his own Commodity, that money which he hath in exchange is valued by the pub<g ref="char:EOLhyphen"/>lick, and muſt be credited; for Gold and Silver admits of ſeveral allayes, onely we believe, but one of them is the ſtandard for money, and ſo cloath and other goods, if they were made by a certain ſtandard (which is poſſible) they might likewiſe be currant.</p>
+               <p n="2">2. The value of money, for the moſt part, continues and is fixed: though there be never ſo great or ſmall quantity of it in the Country, but other things are accordingly varied, for, for the moſt part, when 'tis plenty, commodities are dear, and when ſcarce, cheap, and this is poſſi<g ref="char:EOLhyphen"/>ble to be effected on any other commodities.</p>
+               <p n="3">3. Money is durable, ſo that a Man is not neceſſitated to Trade; for if he laid it 20. yeares by him, he finds the ſame without diminution, which if it were in Commodities, he muſt Trade, or ſpend all, for Bread will ſcarce laſt a week, Cheeſe a year, Cloth ſome few yeares more. So that at the 20. yeares end, inſtead of being worth 100 <hi>l.</hi> a Man is worth nothing but rotten Dung, or Moth-eaten decayed Cloth, for none of which he can purchaſe another Commodity. But Mettalls and pre<g ref="char:EOLhyphen"/>cious Stones, might anſwer this and other Qualifications. And if you object a poſſibility of having Jewels counterfeited, I anſwer, That all the ctre hitherto taken, hath not been able to prevent the counterfeiting of Money, and if it may be diſpenced with in one Coin, it may be in ano<g ref="char:EOLhyphen"/>ther.</p>
+               <p n="4">4. The generality of Commodities are not of ſo rich intrinſick value, but that Men muſt, as in <hi>Sweden,</hi> go to Market with a <hi>Wheel-barrow</hi> or <hi>Cart,</hi> when as agreat value of Money, can be put in ones Pocket, or un<g ref="char:EOLhyphen"/>der ones Arme.</p>
+               <p>Now Credit anſwers the firſt, by having its value as certainly known for a man needs but name any ſumme, to the value of what he is really Creditor in the Office, and 'tis of intrinſick value, and known by his onely nameing it, as if <hi>A.</hi> being Creditor, deſires the Office to enter <hi>B.</hi> Creditor for 10 l. then <hi>B.</hi> is aſſured of currant indiſputable ten pounds.</p>
+               <pb n="9" facs="tcp:48908:15"/>
+               <p>It anſwers the ſecond, by being more certain, for moneys ſometimes riſeth and falleth, but Credit is alwayes certain to the perſons receiving and poſſeſſing it, though uncertain to the Goods, for the ſame may ſome<g ref="char:EOLhyphen"/>times be valued at the delivery 5 <hi>per cent.</hi> more, than at another time, according to a Market price. Credit once made, is certain, but in the making is uncertain.</p>
+               <p>It anſwers the 3d. in that it is as durable for it may laſt to the end of the World, without ever ſuffering any Decay, nor ever (unleſſe deſired) be turned into Money.</p>
+               <p>It anſwers the <hi>4th.</hi> and exceeds it; for 10000 l. Credit, may lye in the Roome of 10 l. Gold. It farther excells Money, in theſe particulers it eannot be counterfeited or Clipt, it is ſoon told, it cannot be ſtolen, it is carryed, and tranſmitted from Place to Place, either within Land or beyond Sea, by Bills of Exhange, with eaſe and ſafety, and many more. Beſides, Money rightly conſidered, is mot ſo deſireable, for a man can paſs away Money, but not conſume it, as he doth other Commodities for Back and Belly. And a man only endeavours to get Money, that he may purchaſe Commodities, both to Gain and Conſume. So when we ſell Commodities for Money, 'tis with a Deſign, only to buy other Commo<g ref="char:EOLhyphen"/>dities.</p>
+               <p>For all Men deſire Wealth, Riches or Money, only that he may feed Dainty, be Cloathed Richly, be well attended and Obeyed, <hi>&amp;c.</hi> and entail the like abundance upon his Poſterity. A Trades-man is better pleaſed, to have his Shop and Ware-houſe ſtored with Goods, than his Baggs repleniſhed with Money, and a man is as wealthy that hath 100 l. in Hay, Graſs, or Dung, as he that hath it in Gold. For as 100 l. Gold can fetch any commodity, ſo 100 l. of Hay, or other commodity will fetch ſo much Gold: for bartering is ſtill continued, but at every commutation Money, as a well known witneſs, muſt be the Medium for want of this better way of Credit. Money is a Bondage upon Trade, becauſe no Com<g ref="char:EOLhyphen"/>moditie is Currant till it hath been meaſured by it, which according to the quantity of either, is ſooner or later don, and accordingly is Trade quick or ſlow. And it is worthy conſideration how far it may conſiſt with the rules of Policy, and the intereſt of State, to enſlave all our Staple wares to the commodity of forrain Princes, who upon occaſion can with<g ref="char:EOLhyphen"/>hold it from us, and ſo retard and deſtroy our Trade at pleaſure, unleſſe we can contrive ſomething to officiate in its room, which if poſſible, is beſt beforehand. <hi>Ireland</hi> can witneſſe, that they cannot thrive notwith<g ref="char:EOLhyphen"/>ſtanding their abundance, becauſe this forrain commodity Money is with<g ref="char:EOLhyphen"/>held
+<pb n="24" facs="tcp:48908:16"/>from them. Many a man hath periſhed through Hunger and Cold that had Money, but none that while well Fed and Cloathed, hath periſh<g ref="char:EOLhyphen"/>ed for want of Money.</p>
+               <p n="13">13. Object. <hi>That this Credit will not yield</hi> 3d. <hi>per Diem. per Cent. at the Goldſmiths as Money, nor anything in the Office, whileſt it lyes there.</hi>
+               </p>
+               <p>This I deny, for firſt, when a Merchant takes up Moneyes at the Gold<g ref="char:EOLhyphen"/>ſmiths, 'tis for immediate Uſe, either to Buy or pay away. Then the Gold<g ref="char:EOLhyphen"/>ſmith being Creditor for all that lyes in his hands, aſſignes over ſo much as he deſires, and the Merchant again to the party ſelling him goods, or bringing him Bills of Exchange, which Bills, though now uſually ſatisfied in <hi>Specie,</hi> will be Anſwered with Credit, or at leaſt moſt of them that are conſiderable. For ſuppoſe <hi>A. B.</hi> of <hi>London</hi> Conſigns 1000 l. worth of Clothes to a Factor in <hi>Amsterdam,</hi> and orders him to lay out 500 l. in certain Commodities, and remit the reſt; the Factor draws upon <hi>C.D.</hi> of <hi>London,</hi> a Bill of Exchange, to be paid to <hi>A. B.</hi> for 500 l. which the ſaid Factor had Diſourſed to buy Commodities, according to the order of A. B. his Principall. <hi>A. B.</hi> preſents this Bill to <hi>C. D.</hi> and he accepts it, and accordingly Orders <hi>A. B.</hi> to be Regiſtered Creditor, for ſo much in the Office, which <hi>A. B.</hi> is contented with, becauſe he may not Export it in <hi>Specie,</hi> nor will he ſuffer it to lye dead. And all other uſes and in<g ref="char:EOLhyphen"/>tents of Money <hi>Credit</hi> anſwers, as above declared.</p>
+               <p n="2">2. The Office (if a Creditor will aſsign it over to the Office) for the time being, it is Creditor, will allow as Goldſmiths, but if the Creditor re<g ref="char:EOLhyphen"/>mains Creditor, there is no more reaſon for them to expect allowance, than when Money lies in their own houſes: For, whileſt they remain Creditors, it is in their poſſeſſion.</p>
+               <p>Obj. 14. <hi>That Credit cannot anſwer ſmall and Countrey Occa<g ref="char:EOLhyphen"/>ſions.</hi>
+               </p>
+               <p>The firſt part I grant. But if that were an exception ſufficient todiſ<g ref="char:EOLhyphen"/>allow it, then muſt Gold be rejected, becauſe there are not pence and half pence of Gold. Credit is like another ſpecies of Money, wherewith great ſums can be paid with more eaſe, than with either Silver or Gold, and the onely uſe of Silver and Gold, will be for ſummes under 5 l.</p>
+               <p>To the laſt, I anſwer, That for ſome ſmall time, they cannot be ſo well ac<g ref="char:EOLhyphen"/>commodated, but as ſoon as we ſhall have fettled it in every County, we can make any man Creditor in the Office of his County, for what he re<g ref="char:EOLhyphen"/>ceives at <hi>London,</hi> which Credit can be tranſmitted from place to place, throughout <hi>England.</hi>
+               </p>
+               <pb n="25" facs="tcp:48908:16"/>
+               <p>Obj. 15. <hi>That it will occaſion many a mans ruine, becauſe Creditors ſeeing a way for their payment, will be more earneſt for their Mo<g ref="char:EOLhyphen"/>ney.</hi>
+               </p>
+               <p>This I deny. For, Firſt, Creditors will not be earneſt, unleſs often deluded. 2. You may as well ſay, a man ought not to have his own, for fear of ruining another. 3. All good husbands that owe Moneyes, have Moneys owing them, and if they are preſs'd to pay, they can like<g ref="char:EOLhyphen"/>wiſe preſs payment; and this enables one as well as another to pay. For it will be a means to ballance all Debts and Credits. 4. Thoſe that are not good husbands, ruine themſelves, and therefore the Creditor hath rea<g ref="char:EOLhyphen"/>ſon, if he can, to ſecure his own.</p>
+               <p n="16">16. Obj. <hi>That it will cauſe too great abundance of Commodities, that there will be no vent for them.</hi>
+               </p>
+               <p>I will grant the firſt part, and deny the latter; For we find that one man can conſume 1000 l's worth of commodities in a year, and ano<g ref="char:EOLhyphen"/>ther but 10 l. and by this means, if all, or moſt men, become ten times richer, they will conſequently conſume ten times more. Beſides, there are many of our commodities may be carried abroad, where they cannot want a Market. For we muſt never expect to out-trade the World.</p>
+               <p>Obj. 17. <hi>That ſome Commodities are ſo old faſhioned, that they can<g ref="char:EOLhyphen"/>not be ſold.</hi>
+               </p>
+               <p>I anſwer, That no commodities are ſo old faſhioned, but that they may be new enough in another place, as mix'd red and yellow Damask is worn in Waſtcoats by Women in <hi>Hamburgh,</hi> nor ſo much decayed, but that they be of ſome uſe, as the beſt Rags for Paper, the worſt for impro<g ref="char:EOLhyphen"/>ving Land. God having ſo ordered all things by his immenſe Wiſdome and univerſal Providence, that nothing ſhould be in vain, and that the corruption of one thing ſhould be the generation of another.</p>
+               <p>Thus having compleated what we deſigned, we will plead thus much for our ſelves, That if we ſhall want Ability, we have not wanted Will, to augment his Majeſty's Cuſtomes by contriving the onely meanes to cauſe ſo flouriſhing a Trade, as this Nation never yet knew. And to ſtop the black mouths of ſuch <hi>Zoili</hi> as (becauſe they are not engaged in the management of this Office) will caſt all the opprobrious terms they can upon it, as Broaker-Lumbard, &amp;c. I will anſwer, That they were hated and deſpiſed, becauſe they uſually took advantage of poor mens neceſſi<g ref="char:EOLhyphen"/>ties, and compelled them to pay accordingly, though much beyond Rea<g ref="char:EOLhyphen"/>ſon: but when they onely ſupply the wants of the poor, for a moderate allowance, they deſerve great encouragement (and I dare boldly affirm,
+<pb n="10" facs="tcp:48908:17"/>that this Office (which takes no Uſe or Intereſt) demands a ſmaller ac<g ref="char:EOLhyphen"/>knowledgement for their pains, in Praiſing, Regiſtring, &amp;c. by half, than ever ſo great an accommodation was had for. If any perſon remains ſtill dis-ſatisfied, it will be kindly taken, if he he acquaints the Office with it, at 5 in the afternoon, where he ſhall receive ſuch further Anſwers to any Objection, as he may reaſonably deſire, either by Word or Writing, Publick or Private. I ſay reaſonably, becauſe it is unreaſonable to expect any thing in this World, void of imperfection, yet I think, compared with others, this will have the preheminence.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:48908:17"/>
+            <head>The Contents.</head>
+            <list>
+               <item>THe Preface.</item>
+               <item>
+                  <hi>Chap. I.</hi> The Definition of the <hi>Office</hi> illustrated with divers ſi<g ref="char:EOLhyphen"/>militudes <hi>Page 1.</hi>
+               </item>
+               <item>
+                  <hi>Chap. II.</hi> The manner of uſing the <hi>Office Page 2.</hi>
+               </item>
+               <item>
+                  <hi>Chap. III.</hi> The Charges and Terms upon which Goods are received <hi>Page 5.</hi>
+               </item>
+               <item>
+                  <hi>Chap. IV.</hi> The Publick and Private Benefits <hi>Page 8.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Objections anſwered.</head>
+               <item>
+                  <hi>Chap. V.</hi>
+                  <list>
+                     <item>
+                        <hi>1.</hi> That there is no need of this <hi>Office Page 11.</hi>
+                     </item>
+                     <item>
+                        <hi>2.</hi> That 'tis a new Thing <hi>Page 14.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Chap. VI. </hi>
+                  <list>
+                     <item>
+                        <hi>3.</hi> That 'tis not Practicable <hi>Page 14.</hi>
+                     </item>
+                     <item>
+                        <hi>4.</hi> It is not ſafe under a Monarch <hi>Page 14.</hi>
+                     </item>
+                     <item>
+                        <hi>5.</hi> There cannot be ſufficient Security given <hi>Page 15.</hi>
+                     </item>
+                     <item>
+                        <hi>6.</hi> It will be a Diſcredit for Credible Merchants to Morgage their Goods <hi>Page 16.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Chap. VII. </hi>
+                  <list>
+                     <item>
+                        <hi>7.</hi> Goods will yield a leſſe Price for being Morgaged <hi>Page 17.</hi>
+                     </item>
+                     <item>
+                        <hi>8.</hi> Dangerous to bring Goods Through-Bridge to the <hi>Office Page 17.</hi>
+                     </item>
+                     <item>
+                        <hi>9.</hi> Goods will be damnified in the <hi>Office</hi> by neglect <hi>Page 17.</hi>
+                     </item>
+                     <item>
+                        <hi>10.</hi> Goods will be damnified in the removing <hi>Page 18.</hi>
+                     </item>
+                     <item>
+                        <hi>11.</hi> The foundation of the Credit bad, becauſe upon periſhable Goods <hi>Page 18.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Chap. VIII. </hi>
+                  <list>
+                     <item>
+                        <hi>12.</hi> Men will have Money and not Credit <hi>Page 18.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Chap. IX. </hi>
+                  <list>
+                     <item>
+                        <hi>13.</hi> This Credit will not yield <hi>3d. per Diem per Cent.</hi> at the <hi>Goldſmiths</hi> as Money, nor any thing in the <hi>Office</hi> whilſt it lies there <hi>Page 24.</hi>
+                     </item>
+                     <item>
+                        <hi>14.</hi> Credit cannot anſwer ſmall and Countrey occaſions <hi>Page 24.</hi>
+                     </item>
+                     <item>
+                        <hi>15.</hi> It will occaſion many a mans ruine, becauſe Creditors ſeeing a way for their payment, will be more earneſt for their Money <hi>Page 25.</hi>
+                     </item>
+                     <item>
+                        <hi>16.</hi> It will cauſe too great abundance of Commodities, that there will be no vent for them <hi>Page 25.</hi>
+                     </item>
+                     <item>
+                        <hi>17.</hi> Some Commodities are ſo old-faſhioned, that they cannot be ſold. <hi>Page 25.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Chap. X.</hi> The Concluſion <hi>Page 25.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
